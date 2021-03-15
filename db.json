@@ -16,12 +16,12 @@
   "mergeReguests": [
     {
       "id": 1,
-      "name": "mergeReguests Project 1",
+      "name": "mergeReguest Project 1",
       "projectId": 1
     },
     {
       "id": 2,
-      "name": "mergeReguests Project 2",
+      "name": "mergeReguest Project 2",
       "projectId": 2
     }
   ]
