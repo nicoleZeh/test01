@@ -1,33 +1,31 @@
 {
-  "mergeData": [
+  "posts": [
     {
-       "id": 2001,
-        "name": "MergeRequest01",
-        "developer": "Tester"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "id": 2002,
-        "name": "MergeRequest02",
-        "developer": "Tester"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "id": 2003,
-        "name": "MergeRequest03",
-        "developer": "Tester"
+      "id": 3,
+      "title": "Post 3"
     }
   ],
-  "profile": [
+  "comments": [
     {
-     "id": 1001,
-     "name": "Project01"
-   },
-   {
-    "id": 1002,
-    "name": "Project02"
-   },
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
     {
-      "id": 1003,
-      "name": "Project03"
-   },
-  ]  
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
