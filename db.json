@@ -13,16 +13,36 @@
       "name": "Project 3"
     }
   ],
-  "mergeReguests": [
+  "mergeReguest1": [
     {
       "id": 1,
-      "name": "mergeReguest Project 1",
-      "projectId": 1
+      "name": "feature/UserInterface",
+      "projectId": 1,
+      "source_branch": "feature/UserInterface",
+      "target_branch": "develop"
     },
     {
       "id": 2,
-      "name": "mergeReguest Project 2",
+      "name": "feature/NetworkConnection",
+      "projectId": 1
+      "source_branch": "feature/NetworkConnection",
+      "target_branch": "develop"
+    }
+  ],
+  "mergeReguest2": [
+    {
+      "id": 1,
+      "name": "feature/UserInterface",
+      "projectId": 2,
+      "source_branch": "feature/UserInterface",
+      "target_branch": "develop"
+    },
+    {
+      "id": 2,
+      "name": "feature/Database",
       "projectId": 2
+      "source_branch": "feature/Database",
+      "target_branch": "develop"
     }
   ]
 }
