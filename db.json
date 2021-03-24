@@ -17,7 +17,6 @@
     {
       "id": 1,
       "name": "feature/UserInterface",
-      "projectId": 1,
       "source_branch": "feature/UserInterface",
       "target_branch": "develop",
       "plist_file": "https://app.appmotion.de/onboarding/21623285-4E8E-4572-8581-A5ECDD90EAB7/appmotion.plist"
@@ -25,7 +24,6 @@
     {
       "id": 2,
       "name": "feature/NetworkConnection",
-      "projectId": 1,
       "source_branch": "feature/NetworkConnection",
       "target_branch": "develop",
       "plist_file": "https://app.appmotion.de/onboarding/21623285-4E8E-4572-8581-A5ECDD90EAB7/appmotion.plist"
@@ -35,7 +33,6 @@
     {
       "id": 1,
       "name": "feature/UserInterface",
-      "projectId": 2,
       "source_branch": "feature/UserInterface",
       "target_branch": "develop",
       "plist_file": "https://app.appmotion.de/onboarding/21623285-4E8E-4572-8581-A5ECDD90EAB7/appmotion.plist"
@@ -43,7 +40,6 @@
     {
       "id": 2,
       "name": "feature/Database",
-      "projectId": 2,
       "source_branch": "feature/Database",
       "target_branch": "develop",
       "plist_file": "https://app.appmotion.de/onboarding/21623285-4E8E-4572-8581-A5ECDD90EAB7/appmotion.plist"
